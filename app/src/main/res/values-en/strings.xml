@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Movie Catalogs</string>
+    <string name="description">description</string>
+    <string name="cari">SEARCH</string>
+    <string name="API_KEY">9b5e5deb5d1e9395b242bd19ba0d7d50</string>
+    <string name="date_and_time">Date and Time</string>
+    <string name="remarks">Remarks</string>
+    <string name="title">Title</string>
+    <string name="poster">Poster</string>
+    <string name="thumbnail">thumbnail</string>
+    <string name="now_playing">NOW PLAYING</string>
+    <string name="uo_coming">UP COMING</string>
+    <string name="search">SEARCH</string>
+    <string name="change_leanguae">Change Language</string>
+
+
+</resources>

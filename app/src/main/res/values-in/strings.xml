@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Katalog Film </string>
+    <string name="description">description</string>
+    <string name="cari">CARI</string>
+    <string name="API_KEY">9b5e5deb5d1e9395b242bd19ba0d7d50</string>
+    <string name="date_and_time">Date and Time</string>
+    <string name="remarks">Remarks</string>
+    <string name="title">Title</string>
+    <string name="poster">Poster</string>
+    <string name="thumbnail">thumbnail</string>
+    <string name="now_playing">DIPUTAR</string>
+    <string name="uo_coming">AKAN DATANG</string>
+    <string name="search">CARI</string>
+    <string name="change_leanguae">Ganti Bahasa</string>
+    <string name="more">Selngkapnya</string>
+
+
+
+</resources>
